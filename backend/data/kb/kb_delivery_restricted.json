@@ -1,0 +1,56 @@
+[
+  {
+    "id": "faq_delivery_1",
+    "title": "Standard Delivery Times in Pakistan",
+    "text": "Domestic deliveries: 2-4 business days within cities, 3-7 days inter-city. Excludes weekends/holidays. Track for exact ETA. Policy: 95% on-time guarantee; delays compensated with PKR 100 credit.",
+    "source": "faqs_delivery"
+  },
+  {
+    "id": "faq_delivery_2",
+    "title": "Express Delivery Options",
+    "text": "Express service: Next-day delivery in major cities (Lahore, Karachi, Islamabad) for extra PKR 300. Select at checkout. Policy: Available only for lightweight parcels (<5kg); not for remote areas.",
+    "source": "faqs_delivery"
+  },
+  {
+    "id": "policy_delivery_1",
+    "title": "Delivery Attempt Policy",
+    "text": "Two free attempts per order. Third requires rescheduling fee. Failed attempts return to sender after 7 days. Policy: Customer must be available; no-shows count as attempts.",
+    "source": "policies_delivery"
+  },
+  {
+    "id": "faq_restricted_1",
+    "title": "Prohibited Items for Shipping",
+    "text": "Restricted: Weapons, explosives, drugs, perishables (e.g., food without packaging), live animals. Check full list on website. Policy: Violations lead to shipment seizure and legal action per Pakistan Post Act.",
+    "source": "faqs_restricted"
+  },
+  {
+    "id": "faq_restricted_2",
+    "title": "Hazardous Materials Policy",
+    "text": "No chemicals, batteries, or flammables. Lithium batteries allowed only in devices (<100Wh). Policy: Special packaging required; non-compliance voids insurance and incurs disposal fees (PKR 500+).",
+    "source": "faqs_restricted"
+  },
+  {
+    "id": "policy_delivery_2",
+    "title": "Remote Area Deliveries",
+    "text": "Gilgit-Baltistan, FATA: Additional 5-10 days and PKR 200 surcharge. Policy: Partnered with local couriers; no guarantees for conflict zones.",
+    "source": "policies_delivery"
+  },
+  {
+    "id": "faq_delivery_3",
+    "title": "International Delivery Times",
+    "text": "To Middle East/Asia: 5-10 days; Europe/USA: 7-14 days. Customs add 2-5 days. Policy: Duties paid by recipient; PakShip not liable for customs delays.",
+    "source": "faqs_delivery"
+  },
+  {
+    "id": "policy_restricted_1",
+    "title": "Valuables and Insurance",
+    "text": "Jewelry/electronics over PKR 10,000 require declaration and insurance (PKR 50 per PKR 1,000 value). Policy: Uninsured losses not covered; max liability PKR 5,000 without insurance.",
+    "source": "policies_restricted"
+  },
+  {
+    "id": "faq_restricted_3",
+    "title": "Alcohol and Tobacco Restrictions",
+    "text": "Strictly prohibited per Pakistani law. No exceptions. Policy: Discovery results in immediate return or destruction; sender fined PKR 10,000.",
+    "source": "faqs_restricted"
+  }
+]

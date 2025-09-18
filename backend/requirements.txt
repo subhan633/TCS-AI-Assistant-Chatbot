@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+pinecone
+sentence-transformers
+groq
+langchain
+langchain-groq
+python-multipart

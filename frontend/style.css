@@ -1,0 +1,112 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff; /* white background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Chat container */
+.chat-container {
+  width: 400px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+/* Header with logo */
+.chat-header {
+  background: #d71920; /* TCS Red */
+  color: white;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.chat-header .logo {
+  height: 35px;
+}
+
+.chat-header h2 {
+  font-size: 16px;
+  margin: 0;
+  font-weight: bold;
+}
+
+/* Chatbox messages */
+#chatbox {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  background: #fafafa;
+}
+
+#messages {
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  background: #fff;
+  border: 1px solid #eee;
+}
+
+.message {
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 8px;
+  max-width: 75%;
+  line-height: 1.4;
+}
+
+.user {
+  background: #f2f2f2;
+  align-self: flex-end;
+  text-align: right;
+}
+
+.bot {
+  background: #fbe9eb;
+  border-left: 4px solid #d71920;
+  align-self: flex-start;
+  text-align: left;
+}
+
+/* Input area */
+#input-area {
+  display: flex;
+  gap: 5px;
+  padding: 5px;
+  border-top: 1px solid #ddd;
+  background: #fff;
+}
+
+#userInput {
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 15px;
+  background: #d71920; /* TCS red */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background: #b5161c;
+}

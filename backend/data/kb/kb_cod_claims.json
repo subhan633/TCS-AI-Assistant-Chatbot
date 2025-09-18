@@ -1,0 +1,56 @@
+[
+  {
+    "id": "faq_cod_1",
+    "title": "What is Cash on Delivery (COD)?",
+    "text": "COD allows payment upon package delivery. Select COD at checkout; no advance payment needed. Delivery agent collects cash or via EasyPaisa/JazzCash. Policy: COD is available for orders under PKR 50,000; higher values require partial prepayment.",
+    "source": "faqs_cod"
+  },
+  {
+    "id": "faq_cod_2",
+    "title": "COD Fee Structure",
+    "text": "A standard COD fee of PKR 150 applies for domestic orders. Waived for prepaid. Policy: Fees are non-refundable; included in total at checkout. International COD not supported.",
+    "source": "faqs_cod"
+  },
+  {
+    "id": "policy_cod_1",
+    "title": "COD Payment Verification",
+    "text": "Agents verify ID and count cash on-site. Refusal to pay voids delivery; package returns to sender at their cost. Policy: Repeated COD refusals (3+ times) lead to account suspension for 30 days.",
+    "source": "policies_cod"
+  },
+  {
+    "id": "faq_claims_1",
+    "title": "How to File a Damage Claim",
+    "text": "For damaged goods, report within 48 hours of delivery via app or email support@pakship.com with photos, order ID, and description. Policy: Claims processed within 7 days; approved claims refund up to 100% value.",
+    "source": "faqs_claims"
+  },
+  {
+    "id": "faq_claims_2",
+    "title": "Refund Process for Claims",
+    "text": "Approved claims refund to original payment method (or cash for COD) within 5-10 business days. Track via your account dashboard. Policy: Partial refunds for minor damages; full for total loss. No refunds for misuse.",
+    "source": "faqs_claims"
+  },
+  {
+    "id": "policy_claims_1",
+    "title": "Eligibility for Claims",
+    "text": "Claims valid for transit damage only, not seller issues. Must accept delivery to inspect. Policy: Evidence required (photos/videos); false claims result in penalties up to PKR 5,000.",
+    "source": "policies_claims"
+  },
+  {
+    "id": "faq_cod_3",
+    "title": "COD Order Cancellation",
+    "text": "Cancel COD orders before shipment via website. Post-shipment cancellations incur return shipping fee. Policy: Full refund minus fees for pre-shipment cancels; no refunds post-delivery refusal.",
+    "source": "faqs_cod"
+  },
+  {
+    "id": "faq_claims_3",
+    "title": "Lost Package Claims",
+    "text": "For lost items, file after 10 days from expected delivery. Provide tracking details. Policy: Compensation up to declared value (max PKR 100,000); insurance recommended for valuables.",
+    "source": "faqs_claims"
+  },
+  {
+    "id": "policy_claims_2",
+    "title": "Dispute Resolution for Claims",
+    "text": "Disputes reviewed by TCS team with seller input. Final decision binding. Policy: Escalation to consumer court for unresolved issues after 14 days.",
+    "source": "policies_claims"
+  }
+]

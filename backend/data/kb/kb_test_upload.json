@@ -1,0 +1,32 @@
+[
+  {
+    "id": "test_doc_1",
+    "title": "Order Tracking FAQ",
+    "text": "Use your tracking ID from the confirmation email to monitor your PakShip package at www.pakship.com/track. Updates are available 24/7.",
+    "source": "faqs_tracking"
+  },
+  {
+    "id": "test_doc_2",
+    "title": "Refund Processing Time",
+    "text": "Refunds for approved claims are processed within 5-7 business days to your original payment method. Check status in your account.",
+    "source": "faqs_claims"
+  },
+  {
+    "id": "test_doc_3",
+    "title": "COD Payment Options",
+    "text": "Pay via cash or mobile apps like EasyPaisa at delivery. COD fee is PKR 100 for orders under PKR 20,000.",
+    "source": "faqs_cod"
+  },
+  {
+    "id": "test_doc_4",
+    "title": "Delivery Delays Policy",
+    "text": "Delays beyond 7 days qualify for a PKR 50 credit. Contact support@pakship.com with your order ID to claim.",
+    "source": "policies_delivery"
+  },
+  {
+    "id": "test_doc_5",
+    "title": "Restricted Items List",
+    "text": "Prohibited items include liquids, batteries, and sharp objects. Full list at www.pakship.com/restrictions.",
+    "source": "faqs_restricted"
+  }
+]

@@ -15,6 +15,11 @@ if not PINECONE_API_KEY:
 
 pc = Pinecone(api_key=PINECONE_API_KEY)
 
+def clear_index():
+    index = get_index()
+    index.delete(delete_all=True)
+    print("✅ Cleared old vectors from Pinecone")
+
 # Get or create index
 def get_index():
     if PINECONE_INDEX not in [index.name for index in pc.list_indexes()]:

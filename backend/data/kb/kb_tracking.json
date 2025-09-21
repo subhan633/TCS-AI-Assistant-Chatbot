@@ -2,7 +2,7 @@
   {
     "id": "faq_tracking_1",
     "title": "How to Track Your Order",
-    "text": "To track your TCS order, use the unique tracking ID sent to you via SMS or email after shipment. Visit our website at www.tcs.com/track, enter the ID, and view real-time status updates including location and estimated arrival. For assistance, contact support at 0800-12345. Policy: Tracking is available 24/7 for all domestic shipments.",
+    "text": "To track your TCS order, use the unique tracking ID sent to you via SMS or email after shipment. Visit our website at www.tcsexpress.com/track, enter the ID, and view real-time status updates including location and estimated arrival. For assistance, contact support at 0800-12345. Policy: Tracking is available 24/7 for all domestic shipments.",
     "source": "faqs_tracking"
   },
   {
@@ -32,7 +32,7 @@
   {
     "id": "policy_tracking_2",
     "title": "Tracking During Peak Seasons",
-    "text": "During holidays (e.g., Eid, Independence Day), updates may be delayed by 12-24 hours due to high volume. Policy: PakShip commits to 95% on-time updates; extended delays trigger automatic notifications and compensation for verified impacts.",
+    "text": "During holidays (e.g., Eid, Independence Day), updates may be delayed by 12-24 hours due to high volume. Policy: TCS commits to 95% on-time updates; extended delays trigger automatic notifications and compensation for verified impacts.",
     "source": "policies_tracking"
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": "faq_tracking_6",
     "title": "App-Based Tracking",
-    "text": "Download the PakShip app for push notifications on status changes. Scan QR code from email for instant tracking. Policy: App usage is optional; web tracking remains primary for all users.",
+    "text": "Download the TCS app for push notifications on status changes. Scan QR code from email for instant tracking. Policy: App usage is optional; web tracking remains primary for all users.",
     "source": "faqs_tracking"
   }
 ]

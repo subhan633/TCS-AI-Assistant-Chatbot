@@ -87,10 +87,9 @@ function displayUserMessage(text) {
 
 // Stream the bot message (typewriter) and preserve spaces
 function streamBotMessage(fullText, speed = 20) {
-  // Create bubble with empty text
   const bubble = document.createElement("div");
   bubble.className = "bubble";
-  bubble.innerText = ""; // will be filled
+  bubble.innerHTML = ""; // use HTML rendering
 
   const wrapper = document.createElement("div");
   wrapper.className = "message bot";
@@ -105,10 +104,10 @@ function streamBotMessage(fullText, speed = 20) {
   scrollToBottom();
 
   let i = 0;
-  // type by character but keep spaces (slice preserves spaces)
   const t = setInterval(() => {
     i++;
-    bubble.innerText = fullText.slice(0, i);
+    // Convert partial text to HTML while streaming
+    bubble.innerHTML = marked.parse(fullText.slice(0, i));
     scrollToBottom();
     if (i >= fullText.length) {
       clearInterval(t);
@@ -117,6 +116,7 @@ function streamBotMessage(fullText, speed = 20) {
     }
   }, speed);
 }
+
 
 // Disable input (while request in-flight)
 function disableInput() {
